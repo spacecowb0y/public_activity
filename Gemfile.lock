@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    public_activity (0.3.1)
+    public_activity (0.3.2)
       activerecord (>= 3.0.0)
       activesupport (>= 3.0.0)
       i18n (>= 0.5.0)

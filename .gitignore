@@ -3,3 +3,5 @@ doc/
 *.gem
 init.rb
 spec/debug.log
+
+.DS_Store
